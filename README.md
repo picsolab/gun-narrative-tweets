@@ -1,6 +1,6 @@
 # Gun Narrative Across Major Mass Shooting Events
 
-The dataset released here was used in our paper " The Dynamics of Twitter Users' Gun Narratives Across Major Mass Shooting Events."
+The dataset released here was used in our paper "The Dynamics of Twitter Users' Gun Narratives Across Major Mass Shooting Events."
 
 This study reveals the shift of gun-related narratives from two ideological groups during three high-profile mass shootings across the years from 2016 to 2018. 
 
@@ -12,3 +12,9 @@ To distinguish tweets relevant to gun violence or policy issues among others in 
 
 The released dataset includes all tweet IDs of the relevant tweets within a four-week period for the three __Event__ and three __Control__ sets. 
 
+The dataset corresponds to Table 1 and Fig 6 in the paper -- the number of relevant non-retweet tweets (i.e., #Relevant) extracted from our collection for the corresponding event and control periods.
+
+## Publication
+If you make use of these data sets and code, please cite:
+
+Lin, Y.-R., Chung, W.-T. (2020). #The Dynamics of Twitter Users' Gun Narratives Across Major Mass Shooting Events (In Press) 
