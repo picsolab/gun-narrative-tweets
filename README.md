@@ -17,18 +17,18 @@ This include 6 files: ```contrl_*_tweetIDs.txt``` and ```event_*_tweetIDs.txt```
 This dataset corresponds to Table 1 and Fig 6 in the paper -- the number of relevant non-retweet tweets (i.e., #Relevant) extracted from our collection for the corresponding event and control periods.
 (2) human coding results: ```human_coding.csv```
 Each row has 12 columns: 
-"tweetID"
-"event": correspond to one of the mass shooting events
-"time": one of the four stages in an event
-"Relevancy": whether the tweet is related to gun policy; all the following columns will be 'N/A' if not relevant
-"Moral": whether the tweet mentions call-for-action
-"Stand": stance of the tweet
-"Rhetoric scheme": corresponds to the scheme in Table 4 in the paper
-"Victim": whether the tweet mentions a victim 
-"Villain": whether the tweet mentions a villain
-"Hero": whether the tweet mentions a hero
-"Problem nature": whether the tweet is about problem nature 
-"Blame target": whether the tweet mentions a blame target 
+* "tweetID"
+* "event": correspond to one of the mass shooting events
+* "time": one of the four stages in an event
+* "Relevancy": whether the tweet is related to gun policy; all the following columns will be 'N/A' if not relevant
+* "Moral": whether the tweet mentions call-for-action
+* "Stand": stance of the tweet
+* "Rhetoric scheme": corresponds to the scheme in Table 4 in the paper
+* "Victim": whether the tweet mentions a victim 
+* "Villain": whether the tweet mentions a villain
+* "Hero": whether the tweet mentions a hero
+* "Problem nature": whether the tweet is about problem nature 
+* "Blame target": whether the tweet mentions a blame target 
 (The last 5 columns correspond to Table 3 in the paper.)
 
 
