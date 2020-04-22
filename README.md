@@ -15,7 +15,8 @@ The released datasets includes (1) all tweet IDs of the relevant tweets within a
 (1) tweetIDs
 This include 6 files: ```contrl_*_tweetIDs.txt``` and ```event_*_tweetIDs.txt```.
 This dataset corresponds to Table 1 and Fig 6 in the paper -- the number of relevant non-retweet tweets (i.e., #Relevant) extracted from our collection for the corresponding event and control periods.
-(2) human coding results: ```human_coding.csv```
+
+(2) human coding results: ```human_coding.csv```.
 Each row has 12 columns: 
 * "tweetID"
 * "event": correspond to one of the mass shooting events
