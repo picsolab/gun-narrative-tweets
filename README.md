@@ -36,4 +36,4 @@ Each row has 12 columns:
 ## Publication
 If you make use of these data sets and code, please cite:
 
-Lin, Y.-R., Chung, W.-T. (In Press). The Dynamics of Twitter Users' Gun Narratives Across Major Mass Shooting Events, Humanities & Social Sciences Communications  
+Lin, Y.-R., Chung, W.-T. (2020). The Dynamics of Twitter Users' Gun Narratives Across Major Mass Shooting Events, Humanities & Social Sciences Communications 7, 46 (2020). https://doi.org/10.1057/s41599-020-00533-8
